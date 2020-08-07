@@ -1,0 +1,101 @@
+.card-custom {
+  width: 500px;
+  border: 0;
+  /* position: absolute; */
+  margin: 20px;
+  margin-left: 0px;
+}
+
+.card-img {
+  max-width: 75%;
+  max-height: 85%;
+  margin-top: 13%;
+  margin-left: 15%;
+}
+
+.card-content {
+  margin-left: 2%;
+}
+
+.card-custom-title {
+  margin-top: 13px;
+  font-weight: 300;
+}
+
+.card-custom-desc {
+  padding-top: 2%;
+  margin-bottom: 6px;
+  font-weight: 300;
+}
+
+.card-custom-btn {
+  border-radius: 0;
+  /* border: 0px; */
+  width: 50%;
+  font-size: 0.9rem;
+  padding: 6px;
+}
+
+.row {
+  --bs-gutter-x: 0.5px;
+}
+
+.btn-text-with-icon {
+  display: flex;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 9px;
+}
+
+.btn-text {
+  margin-bottom: 0;
+}
+
+.push-right {
+  margin-left: auto;
+  margin-top: 3px;
+  margin-right: 9px;
+}
+
+.push-left {
+  margin-right: 25%;
+}
+
+.flex {
+  display: flex;
+}
+
+.collapse-div {
+  padding-top: 2%;
+  text-align: center;
+  vertical-align: center;
+  font-size: 0.9rem;
+}
+
+.collapse-metrics {
+  margin-bottom: 0px;
+}
+
+.collapse-figure {
+  font-size: 1.7rem;
+  font-weight: lighter;
+}
+
+.collapse-image {
+  margin-top: 25px;
+}
+
+.inner-card {
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.vertical-center-icon {
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+.vertical-center-icon:hover {
+  cursor: pointer;
+  color: #358496;
+}

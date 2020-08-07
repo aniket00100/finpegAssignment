@@ -1,0 +1,16 @@
+.search-button {
+  margin-left: auto;
+  padding: 18px;
+  border-radius: 0;
+}
+
+.searchBar-button {
+  padding: 16px;
+  border-radius: 0;
+  font-weight: 300;
+  font-size: 1.2rem;
+}
+
+.input-field {
+  border-radius: 0;
+}
